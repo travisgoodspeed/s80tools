@@ -7,7 +7,7 @@ application for the Doogee S80, much like MD380Tools became a
 replacement firmware for the Tytera MD380 radio.
 
 But there's a lot of work to be done first, and we'll be tracking that
-work on the (wiki)[https://github.com/travisgoodspeed/s80tools/wiki].
+work on the [wiki](https://github.com/travisgoodspeed/s80tools/wiki).
 
 ```
 git clone https://github.com/travisgoodspeed/s80tools
